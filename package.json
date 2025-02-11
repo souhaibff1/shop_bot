@@ -1,0 +1,12 @@
+{
+  "name": "shop-bot",
+  "version": "1.0.0",
+  "description": "Discord shop bot with embed and select menu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+} 
